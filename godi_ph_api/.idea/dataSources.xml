@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="9.134.47.1" uuid="452177c4-dd2a-4120-9606-cb2fea80412b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>9.134.47.1</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://9.134.47.1:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="check_system" uuid="7c514ccc-85dd-4b5e-a095-03b5b85184c6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://9.134.47.1:3306/check_system</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="192.168.1.11" uuid="ed8f8dc7-c830-4676-8c40-72e5e2bc2ab8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>openstack-11</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.1.11:3306</jdbc-url>
+    </data-source>
+  </component>
+</project>
